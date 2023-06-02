@@ -12,7 +12,6 @@ int main(){
        }
     cout.precision(7);
     cout<<"Pi: "<<c<<endl;
-    cout<<k;
     return 0;
 }
 
